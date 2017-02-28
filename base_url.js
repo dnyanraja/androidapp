@@ -1,0 +1,1 @@
+var url = "http://ganeshveer.tk/wp-content/plugins/wp2android-turn-wp-site-into-android-app/";
